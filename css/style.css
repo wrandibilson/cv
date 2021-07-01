@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans';
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  text-align: center;
+  font-family: 'Poppins';
+  font-size: 5.625rem;
+  color: #00909E;
+}
+
+h2 {
+  font-weight: normal;
+  font-family: 'Montserrat';
+  font-size: 2.5rem;
+  color: #00909E;
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Montserrat';
+  color: #126E82;
+}
+
+a {
+  color: #126E82;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border-color: #27496D;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 5%
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 55%;
+  text-align: left;
+}
+
+.profile {
+  margin: 40px auto 40px auto;
+  width: 50%;
+}
+
+.profile-photo {
+  border: 10px solid #142850;
+  border-radius: 50%;
+  width: 40%;
+}
+
+.code-icon {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.cad-icon {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.pm-icon {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.top-container {
+  background-color: #142850;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+.programmer {
+  text-decoration: underline white;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.contact-me {
+  padding-bottom: 50px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Poppins';
+  color: #ffffff;
+  font-size: 15px;
+  background: #142850;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #00909E;
+  text-decoration: none;
+}
+
+
+.bottom-container {
+  background-color: #142850;
+  padding: 30px 0 2px 0;
+  color: eaf6f6;
+}
+
+.copyright {
+  color: #eaf6f6
+}
+
+.footer-link {
+  margin: 0 20px 0 20px;
+}
